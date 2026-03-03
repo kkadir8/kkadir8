@@ -53,3 +53,8 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 
 ### 📊 GitHub Stats
 ![Kadir's GitHub Streak](https://streak-stats.demolab.com/?user=kkadir8&theme=radical)
+---
+<div align="center">
+  <img src="BURAYA_RESİM_LİNKİ_GELECEK" width="100" alt="Nihilist Penguin">
+  <p><i>"Embrace the void, but write clean code."</i></p>
+</div>
