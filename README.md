@@ -55,6 +55,6 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 ![Kadir's GitHub Streak](https://streak-stats.demolab.com/?user=kkadir8&theme=radical)
 ---
 <div align="center">
-  <img src="https://github.com/kkadir8/kkadir8/blob/main/profile_penguin.png?raw=true" width="500" alt="Nihilist Penguin">
+  <img src="https://github.com/kkadir8/kkadir8/blob/main/profile_penguin.png?raw=true" width="1000" alt="Nihilist Penguin">
   <p><i>"Embrace the void, but write clean code."</i></p>
 </div>
