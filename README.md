@@ -1,15 +1,15 @@
 # Hi there, I'm Kadir Gedik! 👋
 
 ### 🤖 Junior AI Engineer & Software Engineering Student
-[cite_start]I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University with a passion for building intelligent, scalable solutions. [cite: 47, 8] [cite_start]As a co-founder and Junior AI Engineer at **Loomon Studio**, I specialize in bridging modern web architectures with **Agentic Systems** (autonomous agents). [cite: 9, 15]
+I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University with a passion for building intelligent, scalable solutions. As a co-founder and Junior AI Engineer at **Loomon Studio**, I specialize in bridging modern web architectures with **Agentic Systems** (autonomous agents).
 
 ---
 
 ### 🛠️ What I Do
-- [cite_start]🔭 **Agentic Systems:** Developing autonomous workflows and AI-driven systems using **n8n** and **CrewAI**. [cite: 16]
-- [cite_start]⚡ **Vibe Coding:** Utilizing AI-native tools like **Cursor** to translate architectural intent into production-ready code with extreme velocity. [cite: 11]
-- [cite_start]🌐 **Web Development:** Building high-performance e-commerce and portfolio platforms using **Webflow**, **WordPress**, and **JavaScript**. [cite: 10, 24]
-- 🤖 **Impact Projects:** Developer of **'Calm Route'**, a specialized navigation app for neurodivergent individuals.
+- 🔭 **Agentic Systems:** Developing autonomous workflows and AI-driven systems using **n8n** and **CrewAI**.
+- ⚡ **Vibe Coding:** Utilizing AI-native tools like **Cursor** to translate architectural intent into production-ready code with extreme velocity.
+- 🌐 **Web Development:** Building high-performance e-commerce and portfolio platforms using **Webflow**, **WordPress**, and **JavaScript**.
+- 🧠 **Impact Projects:** Developer of **'Calm Route'**, a specialized navigation app for neurodivergent individuals.
 
 ---
 
@@ -25,16 +25,16 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Other:**
+**Other Tools:**
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 🎓 Experience & Leadership
-- [cite_start]**Junior AI Engineer & Software Developer** at **Loomon Studio** [cite: 14, 15]
-- [cite_start]**Web Developer** at **Hayrat Humanitarian Aid Association** [cite: 18, 19]
-- [cite_start]**Former Teknofest Club President**, organizing national-level technical workshops. [cite: 42, 43]
+- **Junior AI Engineer & Software Developer** at **Loomon Studio**
+- **Web Developer** at **Hayrat Humanitarian Aid Association**
+- **Former Teknofest Club President**, organizing national-level technical workshops.
 
 ---
 
@@ -46,4 +46,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkadir8&show_icons=true&theme=radical)
