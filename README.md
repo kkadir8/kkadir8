@@ -1,15 +1,15 @@
 # Hi there, I'm Kadir Gedik! 👋
 
 ### 🤖 Junior AI Engineer & Software Engineering Student
-I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University with a passion for building intelligent, scalable solutions. [cite_start]As a co-founder and Junior AI Engineer at **Loomon Studio**, I specialize in bridging modern web architectures with **Agentic Systems** (autonomous agents). [cite: 47, 48, 14, 15, 9]
+I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University with a passion for building intelligent, scalable solutions. As a co-founder and Junior AI Engineer at **Loomon Studio**, I specialize in bridging modern web architectures with **Agentic Systems** (autonomous agents).
 
 ---
 
 ### 🛠️ What I Do
-- [cite_start]🔭 **Agentic Systems:** Developing autonomous workflows and AI-driven systems using **n8n** and **CrewAI**. [cite: 16]
-- [cite_start]⚡ **Vibe Coding:** Utilizing AI-native tools like **Cursor** to translate architectural intent into production-ready code with extreme velocity. 
-- [cite_start]🌐 **Web Development:** Building high-performance e-commerce and portfolio platforms using **Webflow**, **WordPress**, and **JavaScript**, integrated with **Cloud and AI-driven automation tools**. [cite: 10, 24]
-- [cite_start]🧠 **Impact Projects:** Developer of **'Calm Route'**, a specialized navigation app for neurodivergent individuals. [cite: 12]
+- 🔭 **Agentic Systems:** Developing autonomous workflows and AI-driven systems using **n8n** and **CrewAI**.
+- ⚡ **Vibe Coding:** Utilizing AI-native tools like **Cursor** to translate architectural intent into production-ready code with extreme velocity.
+- 🌐 **Web Development:** Building high-performance e-commerce and portfolio platforms using **Webflow**, **WordPress**, and **JavaScript**, integrated with **Cloud and AI-driven automation tools**.
+- 🧠 **Impact Projects:** Developer of **'Calm Route'**, a specialized navigation app for neurodivergent individuals.
 
 ---
 
@@ -35,12 +35,12 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 ---
 
 ### 🎓 Professional Experience
-- **Junior AI Engineer & Software Developer** | [cite_start]Loomon Studio (2025 - Present) [cite: 14, 15, 26]
-- **Web Developer** | [cite_start]Hayrat Humanitarian Aid Association (2025 - Present) [cite: 18, 19, 27]
-- **Software Development Intern** | [cite_start]Software Persona (2026) [cite: 22, 23, 29]
-- **Coding & Robotics Instructor** | [cite_start]Upo Academy / Kidzz Academy (2024 - 2025) [cite: 31, 33, 32]
-- **IT Specialist** | [cite_start]Hayrat International Association (2024 - 2025) [cite: 36, 37, 40]
-- **President** | [cite_start]Teknofest Club (2024 - 2025) [cite: 42, 43, 49]
+- **Junior AI Engineer & Software Developer** | Loomon Studio (2025 - Present)
+- **Web Developer** | Hayrat Humanitarian Aid Association (2025 - Present)
+- **Software Development Intern** | Software Persona (2026)
+- **Coding & Robotics Instructor** | Upo Academy / Kidzz Academy (2024 - 2025)
+- **IT Specialist** | Hayrat International Association (2024 - 2025)
+- **President** | Teknofest Club (2024 - 2025)
 
 ---
 
@@ -52,6 +52,5 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 ---
 
 ### 📊 GitHub Stats
-![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkadir8&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=transparent)
+![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkadir8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=radical)
