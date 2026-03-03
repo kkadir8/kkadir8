@@ -51,7 +51,7 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kkadir8&theme=radical" height="170" alt="GitHub Streak" />
 </div>
