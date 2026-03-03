@@ -52,6 +52,9 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 ---
 
 ### 📊 GitHub Stats
-![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkadir8&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkadir8&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=radical" width="45%" />
+</div>
