@@ -60,5 +60,10 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kkadir8&theme=radical" height="170" alt="GitHub Streak" />
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" height="170" alt="Jokes Card" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkadir8&label=Profile%20Views&color=e05d9a&style=for-the-badge" alt="Profile Views" />
 </div>
