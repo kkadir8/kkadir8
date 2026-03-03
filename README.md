@@ -60,5 +60,5 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kkadir8&theme=radical" height="170" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=radical" height="170" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kkadir8&theme=radical&no-bg=true&no-frame=true&row=1&column=4&margin-w=15" height="170" alt="GitHub Trophies" />
 </div>
