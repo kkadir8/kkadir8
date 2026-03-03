@@ -58,3 +58,7 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
   <img src="https://github.com/kkadir8/kkadir8/blob/main/profile_penguin.png?raw=true" width="1000" alt="Nihilist Penguin">
   <p><i>"Staring into the abyss, but the abyss has a syntax error."</i></p>
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kkadir8&theme=radical" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=radical" height="170" alt="Top Languages" />
+</div>
