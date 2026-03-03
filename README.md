@@ -56,5 +56,5 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 ---
 <div align="center">
   <img src="https://github.com/kkadir8/kkadir8/blob/main/profile_penguin.png?raw=true" width="1000" alt="Nihilist Penguin">
-  <p><i>"Embrace the void, but write clean code."</i></p>
+  <p><i>"Staring into the abyss, but the abyss has a syntax error."</i></p>
 </div>
