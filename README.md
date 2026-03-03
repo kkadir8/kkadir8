@@ -7,7 +7,7 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 
 ### 🛠️ What I Do
 - 🔭 **Agentic Systems:** Developing autonomous workflows and AI-driven systems using **n8n** and **CrewAI**.
-- ⚡ **Vibe Coding:** Utilizing AI-native tools like **Cursor** to translate architectural intent into production-ready code with extreme velocity.
+- ⚡ **Vibe Coding:** Utilizing AI-native tools like **Cursor**, **Claude**, and **Gemini** to translate architectural intent into production-ready code with extreme velocity.
 - 🌐 **Web Development:** Building high-performance e-commerce and portfolio platforms using **Webflow**, **WordPress**, and **JavaScript**, integrated with **Cloud and AI-driven automation tools**.
 - 🧠 **Impact Projects:** Developer of **'Calm Route'**, a specialized navigation app for neurodivergent individuals.
 
@@ -53,4 +53,5 @@ I am a 3rd-year **Software Engineering** student at Istanbul Topkapı University
 
 ### 📊 GitHub Stats
 ![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkadir8&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=radical)
