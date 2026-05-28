@@ -75,11 +75,6 @@ I'm a third-year **Software Engineering** student at Istanbul Topkapı Universit
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkadir8&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir8&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=kkadir8&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
