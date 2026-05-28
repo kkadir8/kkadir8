@@ -67,9 +67,8 @@ I'm a third-year **Software Engineering** student at Istanbul Topkapı Universit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadir-gedik)
 [![Portfolio](https://img.shields.io/badge/kadirgedik.engineer-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kadirgedik.engineer)
-[![CalmRoute](https://img.shields.io/badge/CalmRoute-2D8F5F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://calmroute.org)
+[![CalmRoute](https://img.shields.io/badge/CalmRoute-2D8F5F?style=for-the-badge&logo=leaflet&logoColor=white)](https://calmroute.org)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadirgedik777@gmail.com)
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
